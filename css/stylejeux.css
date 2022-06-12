@@ -1,0 +1,188 @@
+
+
+
+.logo{
+    width: 65%;
+    margin-top: 18px;
+}
+.logo3{
+    width: 41%;
+    margin-top: 30px;
+    border-radius: 50px;
+
+}
+.logo2{
+    width: 70%;
+    margin-top: 30px;
+}
+.logo4{
+    width: 43%;
+    
+    margin-left: 300px;
+}
+.logo5{
+    width: 85%;
+    
+}
+.logo6{
+    width: 40%;
+    margin-left: 230px;
+    
+}
+.logo7{
+    width: 40%;
+    margin-left: 40px;
+    
+}
+.logo8{
+    margin-left: 80px;
+   
+}
+.logo9{
+    margin-left: 80px;
+}
+
+.logo10{
+    margin-left: 100px;
+    
+    
+   
+}
+
+#container1{
+    width: 100%;
+    height: 270px;
+    background-color: black;
+  
+}
+#container2{
+    color: rgb(253, 253, 253);
+    padding: 0;
+    margin-top: -10px;
+    
+  
+}
+
+.bbg{
+    background-color: navy;
+}
+#containernav{
+    margin-left: 160px;
+
+}
+
+
+#btninscription{
+    border: rgb(173, 11, 11) solid;
+    margin-top: 7px;
+    margin-left: 38px;
+}
+#formu1{
+    display: none;
+    width: 100%;
+    position: fixed;
+    margin-top: 20px;
+    margin-left: -70px;
+    
+}
+#imagecarrousel{
+    margin-top: 30px;
+    width: 80%;
+    height: 380px;
+    margin-left: 115px;
+}
+#container4{
+    background-color: black;
+    margin-top: 115px;
+}
+#row4{
+    
+    width: 200px;
+    text-align: center;
+    margin-top: 25px;
+    font-size: 30px;
+}
+#insta{
+    color: palevioletred;
+}
+#fb{
+    color: blue;
+}
+#mail{
+    color: steelblue;
+}
+.copy{
+    width: 50%;
+    
+}
+/* #row5{
+    width: 10%;
+
+} */
+#container5{
+    width: 100%;
+    background-color: black;
+    height: 300px;
+    
+  
+}
+
+#container6{
+    margin-top: 80px;
+    
+    
+   
+}
+#fleche1,#fleche2,#fleche3,#fleche4,#fleche5,#fleche6,#fleche7,#fleche8,#fleche9,#fleche2,#fleche2,#fleche2,#fleche2,#fleche2,#fleche2,#fleche2{
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+
+
+#container7,#container8,#container9,#container10,#container11{
+    margin-top: 50px;
+}
+
+
+#nav6 a:hover,#nav5 a:hover,#nav4 a:hover,#nav3 a:hover,#nav2 a:hover,#nav1 a:hover{
+    font-weight: bold;
+}
+
+#fb:hover,#insta:hover,#mail:hover{
+    text-decoration: none;
+    font-size: 1.2em;
+    
+
+}
+.card{
+    box-shadow: 0 0 30px rgba(0,0,0,0.9);
+   
+
+
+}
+.card:hover{
+    transform: translateY(-5px);
+    /* border-radius: 10%; */
+}
+.card-img-top{
+    border-radius: 5%;
+}
+
+.buttond:hover{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+
+.nav-item{
+    color: blueviolet;
+}
+#nav7{
+    font-size: 30px;
+    color: rgb(102, 109, 115);
+}
+#nav7:hover{
+    color: aliceblue;
+}
